@@ -1,0 +1,19 @@
+{smcl}
+{* *! Title: Control 4 Econometría II}
+{title:Descripción}
+Este paquete instala el documento de referencia "Control 4 Econometría II".
+
+{title:Comandos Disponibles}
+{pstd}
+    {cmd:help control4}    - Muestra esta ayuda.
+{pstd}
+    {cmd:do control4_installer} - Instala el paquete.
+
+{title:Ubicación del Archivo}
+{pstd}
+    El archivo se instala en la carpeta:
+    c:\ado\plus\c\control4.txt
+
+{title:Créditos}
+{pstd}
+    Autor: {browse "https://github.com/ard400/control-4"}

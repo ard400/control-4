@@ -1,0 +1,4 @@
+{smcl}
+*! Package: control4
+d control4_installer.do
+d control4.hlp  <-- (Archivo de ayuda para `help control4`)

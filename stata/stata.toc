@@ -1,5 +1,4 @@
 {smcl}
 *! control4 package
-pkgname control4
-d control4.pkg
-d control4_installer.do
+pkgname control4/control4
+d control4/control4.pkg

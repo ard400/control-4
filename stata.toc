@@ -1,5 +1,4 @@
 {smcl}
-*! control-4 installer package
-* Created for Stata net install
-pkgname control4_installer
-d control4_installer.do
+*! control4 package
+pkgname control4
+d control4.pkg
